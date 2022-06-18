@@ -1,6 +1,6 @@
 {
     "type": "module",
-    "name": "hello-world",
+    "name": "@fcorella/hello-world",
     "version": "1.0.0",
     "description": "This is a test",
     "main": "pjcl.js",
