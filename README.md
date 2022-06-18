@@ -1,3 +1,3 @@
 # hello-world
-Experimenting with **markdown**.
-Here is a [link](https://www.markdownguide.org/cheat-sheet/) to the *markdown cheatsheet*.
+This is my first GitHub directory.  I'm using it to try things out.
+
